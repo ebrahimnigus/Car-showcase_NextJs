@@ -10,8 +10,6 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
 
 - **Tailwind CSS** – Utility-first modern styling
   
-- **Headless UI & Heroicons** – Accessible UI components (optional)
-  
 - **API Integration** – Car data fetched from a public API
 
 ## 🚀 Features
@@ -34,10 +32,6 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
 git clone https://github.com/yourusername/car_showcase.git
 
 cd car_showcase
-
-# Install dependencies
-
-npm install
 
 # Run development server
 
