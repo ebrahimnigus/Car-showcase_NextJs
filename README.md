@@ -28,14 +28,18 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
 
 ```bash
 # 1. Clone the repository
+
 git clone https://github.com/yourusername/car_showcase.git
 
 # 2. Navigate into the project directory
+
 cd car_showcase
 
 # 3. Install dependencies
+
 npm install
 
 # 4. Run the development server
+
 npm run dev
 
