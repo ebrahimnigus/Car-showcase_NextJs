@@ -44,7 +44,9 @@ const SearchManufacturer = ({manufacturer,
                         }`
                       }
                       >
-                    {item}
+                    
+
+                    
                     </Combobox.Option>
                   )
                 )}
