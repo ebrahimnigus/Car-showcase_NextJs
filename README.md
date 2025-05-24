@@ -27,6 +27,7 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
 ## 📦 Installation
 
 ```bash
+
 # 1. Clone the repository
 
 git clone https://github.com/yourusername/car_showcase.git
