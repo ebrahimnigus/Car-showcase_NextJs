@@ -64,7 +64,7 @@ const SearchManufacturer = ({manufacturer, setManufacturer}: SearchManufacturerP
       </Combobox.Option>
     ))}
   </Combobox.Options>
-</Transition>
+  </Transition>
         </div>
       </Combobox>
     </div>
