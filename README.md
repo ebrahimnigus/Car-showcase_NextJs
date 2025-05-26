@@ -22,7 +22,7 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
   
 - ⚡ Fast load times with Next.js optimization
   
-- ♿ Accessible and keyboard-friendly UI
+- ♿ Accessible and keyboard - friendly UI
 
 ## 📦 Installation
 
