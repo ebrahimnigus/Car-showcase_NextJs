@@ -2,7 +2,7 @@
 
 A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. It allows users to explore various car models with filtering, searching, and responsive design.
 
-## 🔧 Tech stack
+## 🔧 Tech Stack
 
 - **Next.js 14** – App Router, Server/Client Components
   
