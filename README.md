@@ -26,7 +26,7 @@ A modern car showcase web app built with **Next.js 14**, **TypeScript**, and **T
 
 ## 📦 Installation
 
-```bash
+``` bash
 
 # 1. Clone the repository
 
